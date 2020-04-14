@@ -13,6 +13,7 @@ You will need
 - IAM, Lambda, SNS, SimpleDB permissions
 - Terraform 0.12 or greater
 - A preconfigured SNS topic
+- Prepare your deployment package like [this](https://docs.aws.amazon.com/lambda/latest/dg/python-package.html)
 
 Find you local HEB by going to https://www.heb.com/store-locations, Clicking Store Details, and finding the 3 digit number associated with the store. 
 
