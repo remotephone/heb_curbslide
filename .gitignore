@@ -1,0 +1,5 @@
+*.json
+*.backup
+*.tfstate
+terraform/.terraform/
+*.zip
