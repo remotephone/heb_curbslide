@@ -17,7 +17,7 @@ You will need
 
 Find you local HEB by going to https://www.heb.com/store-locations, Clicking Store Details, and finding the 3 digit number associated with the store. 
 
-Replace the terraform vars with your local store number and SNS topic ARN. 
+Replace the terraform vars with your local store number and SNS topic ARN. Copy your packaged zip to the terraform folder for deployment.
 
 ```
 terraform plan
