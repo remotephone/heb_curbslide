@@ -18,9 +18,11 @@ Find you local HEB by going to https://www.heb.com/store-locations, Clicking Sto
 
 Replace the terraform vars with your local store number and SNS topic ARN. 
 
+```
 terraform plan
 terraform apply
 yes
+```
 
 badabing badaboom you're done. You'll get SNS notifications fanned out wherever you send them. 
 
